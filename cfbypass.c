@@ -1,25 +1,6 @@
-cfbypass.c
-
-Loại
-C
-Kích thước
-10 KB (10.467 byte)
-Bộ nhớ chiếm dụng
-10 KB (10.467 byte)
-Vị trí
-xml2017
-Chủ sở hữu
-tôi
-Lần sửa đổi gần đây nhất:
-6 thg 8, 2017 bởi tôi
-Được mở vào
-19 thg 1, 2019 bởi tôi
-Đã tạo
-6 thg 8, 2017 với Google Drive Web
-Thêm mô tả
-Người xem có thể tải xuống
 /*
 gcc cfbypass.c -Wall -ggdb -fopenmp -o cfbypass
+discord: uninstall#9477
 */
 #define _GNU_SOURCE
 
