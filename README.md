@@ -2,4 +2,4 @@
 DDos with xmlrpc list
 
 >>>>>>>>>>>
-Discord: uninstall#9477
+tele: https://t.me/hisokavn
